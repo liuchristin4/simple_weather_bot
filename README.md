@@ -1,1 +1,1 @@
-# Lighthouse-bot
+# lighthouse-bot
